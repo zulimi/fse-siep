@@ -1,11 +1,10 @@
 ---
 title: 'FSE SIEP'
-description: 'Panduan dan Maklumat Student in Enterprise Program (SIEP), Fakulti Senibina dan Ekistik, Universiti Malaysia Kelantan'
+description: ''
 position: 1
 category: ''
+subtitle: 'Panduan dan Maklumat Student in Enterprise Program (SIEP), Fakulti Senibina dan Ekistik, Universiti Malaysia Kelantan'
 ---
-
-Panduan dan Maklumat Student in Enterprise Program (SIEP), Fakulti Senibina dan Ekistik, Universiti Malaysia Kelantan
 
 ## Pengenalan
 

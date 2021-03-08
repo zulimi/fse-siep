@@ -1,10 +1,8 @@
 {
   "title": "FSE SIEP",
-  "url": "https://nervous-swirles-ae154c.netlify.app/",
+  "url": "/",
   "logo": {
     "light": "/logo-light.svg",
     "dark": "/logo-dark.svg"
-  },
-  "github": "zulimi/fse-siep",
-  "twitter": "@zulimitweet"
+  }
 }

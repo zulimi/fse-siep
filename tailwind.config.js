@@ -47,6 +47,7 @@ module.exports = {
                 borderRadius: '0.25rem'
               },
               pre: {
+                borderRadius: '0.25rem',
                 code: {
                   color: '#f7fafc',
                   borderColor: 'transparent',
