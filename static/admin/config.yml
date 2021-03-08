@@ -18,6 +18,6 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Position', name: 'position', widget: 'number' }
-      - { label: 'Category', name: 'category', widget: 'string', required: false }
+      - { label: 'Category', name: 'category', widget: 'list', allow_add: true, required: false }
       - { label: 'Subtitle', name: 'subtitle', widget: 'string', required: false }
       - { label: 'Content', name: 'body', widget: 'markdown' }
