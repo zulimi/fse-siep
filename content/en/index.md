@@ -1,29 +1,15 @@
 ---
-title: Introduction
-description: ''
+title: 'FSE SIEP'
+description: 'Panduan dan Maklumat Student in Enterprise Program (SIEP), Fakulti Senibina dan Ekistik, Universiti Malaysia Kelantan'
 position: 1
 category: ''
-features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
 ---
 
-<img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
-<img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
+Panduan dan Maklumat Student in Enterprise Program (SIEP), Fakulti Senibina dan Ekistik, Universiti Malaysia Kelantan
 
-[Module]() for [NuxtJS](https://nuxtjs.org).
+## Pengenalan
 
-<alert type="success">
+SIEP merupakan satu program sangkut atau program peningkatan kemahiran keusahawanan yang ditawarkan kepada pelajar Fakulti Senibina dan Ekistik (FAE), Universiti Malaysia Kelantan (UMK) bagi memberikan input tambahan kepada aktiviti pembelajaran di dalam kelas. Program ini menggunakan pendekatan gabungan pedagogi seperti pemerhatian, pertanyaan, belajar melalui pengalaman, kajian kes serta aktiviti simulasi.
 
-Your documentation has been created successfully!
+Pendekatan pedagogi yang digunakan pula diselaraskan dan disesuaikan dengan peringkat pembelajaran dan tema yang dikenal pasti dalam dua tahap SIEP, iaitu SIEP 1, dan SIEP 2. Pada setiap tahap SIEP, pelajar ditempatkan di organisasi perniagaan selama dua minggu atau 10 hari bekerja pada cuti antara sesi pengajian.
 
-Are you sure?
-
-</alert>
-
-## Features
-
-<list :items="features"></list>
-
-<p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>
