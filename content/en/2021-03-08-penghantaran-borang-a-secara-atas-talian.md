@@ -1,7 +1,7 @@
 ---
 title: Penghantaran Borang A Secara Atas Talian
 position: 4
-category: Semester February 2019/20
+category: Semester Februari 2019/20
 ---
 Anda boleh menggunakan form di bawah atau klik pada [pautan](https://airtable.com/shr9CVxVZoDhUZGnO) ini.
 
